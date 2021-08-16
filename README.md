@@ -7,5 +7,5 @@ I'm SuQi(aka, Matt Su/😄大牙马特), the translation author of the popular [
 - 🌱 I’m currently learning to be an independent developer/writer
 - 💬 Ask me about Python/Internet product design/Productivity/Life hack
 - 📫 How to reach me: matt.su@foxmail.com， wechat:sudojade
-- ⚡ Fun fact: I'm a drummer with beat and rythm inside.
+- ⚡ Fun fact: I'm a drummer with beat and rythm inside my head.
 
